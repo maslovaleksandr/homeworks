@@ -65,7 +65,6 @@ class NewCommand(BaseCommand):
     def perform(self, objects, *args, **kwargs):
         classes = self._load_item_classes()
 
-        print('hello world')
 
         print('Select item type:')
         for index, name in enumerate(classes.keys()):
