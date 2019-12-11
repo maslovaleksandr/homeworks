@@ -1,0 +1,10 @@
+{
+  "name": "sanya",
+  "age": 25,
+  "some str": "str for tests",
+  "bool": true,
+  "none": null,
+  "object": {
+    "some numbers": ["value", false]
+  }
+}

@@ -5,6 +5,7 @@ def add_log(func):
     def inner():
         print("{} started at: {}".format(func.__name__, time.strftime("%H:%M:%S", time.gmtime())))
         func()
+        time.sleep(2)
         print("{} ended at: {}".format(func.__name__, time.strftime("%H:%M:%S", time.gmtime())))
     return inner
 

@@ -1,0 +1,4 @@
+.DB_Store
+*.log
+.idea
+__pycache__
