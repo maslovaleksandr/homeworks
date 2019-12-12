@@ -4,7 +4,7 @@ import re
 
 r = requests.get("https://habrahabr.ru/")
 
-link = r"<a href=.*>"
+link = r'<a href=.*">'
 urls = re.findall(link, r.text)
 
 for url in urls:
