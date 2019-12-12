@@ -1,0 +1,306 @@
+<a href="#" class="layout__elevator hidden" id="scroll_to_top" title="Наверх"  onclick="if (typeof ga === 'function') { ga('send', 'event', 'navigation_button', 'down'); }"><a href="https://habr.com?utm_source=tm_habrahabr&utm_medium=tm_top_panel&utm_campaign=tm_promo" class="current">Хабр</a>
+<a href="https://habr.com/flows/geektimes/">Geektimes</a>
+<a href="https://toster.ru?utm_source=tm_habrahabr&utm_medium=tm_top_panel&utm_campaign=tm_promo">Тостер</a>
+<a href="https://moikrug.ru?utm_source=tm_habrahabr&utm_medium=tm_top_panel&utm_campaign=tm_promo">Мой круг</a>
+<a href="https://freelansim.ru?utm_source=tm_habrahabr&utm_medium=tm_top_panel&utm_campaign=tm_promo">Фрилансим</a>
+<a href="https://u.tmtm.ru/rvk_top" target="_blank" style="color: #3c86ee" rel=" noopener">ИИ человеку друг</a>
+<a href="https://u.tmtm.ru/matras_top" target="_blank" style="color: #0da526" rel=" noopener">Борьба с бессонницей</a>
+<a href="https://u.tmtm.ru/busines_bundle_glagne" target="_blank" style="color: #00008B" rel=" noopener">Миллиарды</a>
+<a href="https://habr.com/ru/" class="logo" title="">
+<a href="https://habr.com/ru/" class="nav-links__item-link nav-links__item-link_current">Публикации</a>
+<a href="https://habr.com/ru/news/" class="nav-links__item-link ">Новости</a>
+<a href="https://habr.com/ru/users/" class="nav-links__item-link ">Пользователи</a>
+<a href="https://habr.com/ru/hubs/" class="nav-links__item-link ">Хабы</a>
+<a href="https://habr.com/ru/companies/" class="nav-links__item-link ">Компании</a>
+<a href="https://habr.com/ru/sandbox/start" class="nav-links__item-link ">Стать автором</a>
+<a href="https://habr.com/ru/auth/login/" id="login" class="btn btn_medium btn_navbar_login">Войти</a>
+<a href="https://habr.com/ru/auth/register/" class="btn btn_medium btn_navbar_registration">Регистрация</a>
+<a href="https://habr.com/ru/flows/develop/" class="n-dropdown-menu__item-link n-dropdown-menu__item-link_flow">Разработка</a>
+<a href="https://habr.com/ru/flows/admin/" class="n-dropdown-menu__item-link n-dropdown-menu__item-link_flow">Администрирование</a>
+<a href="https://habr.com/ru/flows/design/" class="n-dropdown-menu__item-link n-dropdown-menu__item-link_flow">Дизайн</a>
+<a href="https://habr.com/ru/flows/management/" class="n-dropdown-menu__item-link n-dropdown-menu__item-link_flow">Менеджмент</a>
+<a href="https://habr.com/ru/flows/marketing/" class="n-dropdown-menu__item-link n-dropdown-menu__item-link_flow">Маркетинг</a>
+<a href="https://habr.com/ru/flows/geektimes/" class="n-dropdown-menu__item-link n-dropdown-menu__item-link_flow">Гиктаймс</a>
+<a href="https://habr.com/ru/flows/misc/" class="n-dropdown-menu__item-link n-dropdown-menu__item-link_flow">Разное</a>
+<a href="https://habr.com/ru/top/" class="tabs-menu__item tabs-menu__item_link" rel="nofollow"  >
+<a href="https://habr.com/ru/all/" class="tabs-menu__item tabs-menu__item_link" rel="nofollow"  >
+<a href="https://habr.com/ru/top/" class="toggle-menu__item-link toggle-menu__item-link_active" rel="nofollow" title="Лучшие публикации за сутки">
+<a href="https://habr.com/ru/top/weekly/" class="toggle-menu__item-link " rel="nofollow" title="Лучшие публикации за неделю">
+<a href="https://habr.com/ru/top/monthly/" class="toggle-menu__item-link " rel="nofollow" title="Лучшие публикации за месяц">
+<a href="https://habr.com/ru/top/yearly/" class="toggle-menu__item-link " rel="nofollow" title="Лучшие публикации за год">
+<a href="https://habr.com/ru/users/iSergeys/" class="post__user-info user-info" title="Автор публикации">
+<a href="https://habr.com/ru/post/479756/" class="post__title_link">Открытые данные. Роскосмос. Догоним Америку</a>
+<a href="https://habr.com/ru/hub/opendata/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Открытые данные'); }">Открытые данные</a>
+<a href="https://habr.com/ru/hub/space/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Космонавтика'); }">Космонавтика</a>
+<a href="https://habr.com/ru/post/479756/#comments" class="post-stats__comments-link" rel="nofollow">
+<a href="https://habr.com/ru/news/t/479868/" class="news-topic__title" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'news', 'title'); }">Acronis купила компанию 5nine, поставщика решений для управления и защиты облаков на базе Microsoft Hyper-V и Azure</a>
+<a href="https://habr.com/ru/news/t/479868/#comments" class="news-topic__attr news-topic__attr_comments" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'news', 'comments'); }">Комментарии: 0</a>
+<a href="https://habr.com/ru/news/t/479838/" class="news-topic__title" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'news', 'title'); }">20 тысяч бэкеров портативного холодильника Coolest так и не получат устройство</a>
+<a href="https://habr.com/ru/news/t/479838/#comments" class="news-topic__attr news-topic__attr_comments" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'news', 'comments'); }">Комментарии: 7</a>
+<a href="https://habr.com/ru/news/t/479826/" class="news-topic__title" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'news', 'title'); }">Google отказала Fortnite в уникальных условиях распространения</a>
+<a href="https://habr.com/ru/news/t/479826/#comments" class="news-topic__attr news-topic__attr_comments" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'news', 'comments'); }">Комментарии: 30</a>
+<a href="https://habr.com/ru/news/t/479812/" class="news-topic__title" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'news', 'title'); }">МТС, «Сколтех» и «Элемент» займутся разработкой отечественного 5G-оборудования</a>
+<a href="https://habr.com/ru/news/t/479812/#comments" class="news-topic__attr news-topic__attr_comments" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'news', 'comments'); }">Комментарии: 10</a>
+<a href="https://habr.com/ru/news/t/479804/" class="news-topic__title" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'news', 'title'); }">Почти половину покупок россияне совершают в интернете — исследование Яндекса и GfK</a>
+<a href="https://habr.com/ru/news/t/479804/#comments" class="news-topic__attr news-topic__attr_comments" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'news', 'comments'); }">Комментарии: 10</a>
+<a href="https://habr.com/ru/news/" classs="news-block__footer-link" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'news', 'all_news'); }">Все новости</a>
+<a href="https://habr.com/ru/users/KruFFT/" class="post__user-info user-info" title="Автор публикации">
+<a href="https://habr.com/ru/post/479672/" class="post__title_link">CAN sniffer</a>
+<a href="https://habr.com/ru/hub/DIY/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'DIY или Сделай сам'); }">DIY или Сделай сам</a>
+<a href="https://habr.com/ru/post/479672/#comments" class="post-stats__comments-link" rel="nofollow">
+<a href="https://habr.com/ru/users/moikrug/" class="post__user-info user-info" title="Автор публикации">
+<a href="https://habr.com/ru/company/moikrug/blog/479688/" class="post__title_link">В каких странах и городах разработчики зарабатывают больше, если учесть налоги и стоимость жизни?</a>
+<a href="https://habr.com/ru/company/moikrug/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Блог компании Мой круг'); }">Блог компании Мой круг</a>
+<a href="https://habr.com/ru/hub/research/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Исследования и прогнозы в IT'); }">Исследования и прогнозы в IT</a>
+<a href="https://habr.com/ru/hub/hr_management/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Управление персоналом'); }">Управление персоналом</a>
+<a href="https://habr.com/ru/hub/career/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Карьера в IT-индустрии'); }">Карьера в IT-индустрии</a>
+<a href="https://moikrug.ru/salaries?utf8=%E2%9C%93&amp;p=192&amp;sg=1&amp;q=4&amp;skills%5B%5D=&amp;skills%5B%5D=&amp;skills%5B%5D=&amp;employment_type=&amp;remote=&amp;company_id=&amp;city_ids%5B%5D=678">по данным</a> сервиса зарплат на moikrug.ru)<br>
+<a href="https://www.glassdoor.com/Salaries/san-francisco-software-developer-salary-SRCH_IL.0,13_IM759_KO14,32.htm">по данным</a> сервиса зарплат на glassdoor.com).<br>
+<a href="https://habr.com/ru/company/moikrug/blog/479688/#comments" class="post-stats__comments-link" rel="nofollow">
+<a href="https://habr.com/ru/users/xl-tech/" class="post__user-info user-info" title="Автор публикации">
+<a href="https://habr.com/ru/post/479818/" class="post__title_link">Как оценить уровень владения английским языком</a>
+<a href="https://habr.com/ru/hub/study/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Учебный процесс в IT'); }">Учебный процесс в IT</a>
+<a href="https://habr.com/ru/hub/learning_languages/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Изучение языков'); }">Изучение языков</a>
+<a href="https://habr.com/ru/post/479818/#comments" class="post-stats__comments-link" rel="nofollow">
+<a href="https://tmtm.ru/megapost" class="default-block__header-link" rel="nofollow" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'megapost_promo', 'order'); }">Разместить</a>
+<a href="https://u.tmtm.ru/lr8lx" target="_blank" class="teaser__image" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'megapost_promo', 'article_pic'); }" rel="nofollow">
+<a href="https://u.tmtm.ru/lr8lx" target="_blank" class="teaser__body" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'megapost_promo', 'article_title'); }" rel="nofollow">
+<a href="https://u.tmtm.ru/alfa_karma_promo" target="_blank" class="teaser__image" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'megapost_promo', 'article_pic'); }" rel="nofollow">
+<a href="https://u.tmtm.ru/alfa_karma_promo" target="_blank" class="teaser__body" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'megapost_promo', 'article_title'); }" rel="nofollow">
+<a href="https://u.tmtm.ru/rtlabs_promo" target="_blank" class="teaser__image" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'megapost_promo', 'article_pic'); }" rel="nofollow">
+<a href="https://u.tmtm.ru/rtlabs_promo" target="_blank" class="teaser__body" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'megapost_promo', 'article_title'); }" rel="nofollow">
+<a href="https://habr.com/ru/users/xi-tauw/" class="post__user-info user-info" title="Автор публикации">
+<a href="https://habr.com/ru/company/pm/blog/479704/" class="post__title_link">Повышение привилегий в Windows клиенте EA Origin (CVE-2019-19247 и CVE-2019-19248)</a>
+<a href="https://habr.com/ru/company/pm/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Блог компании Перспективный мониторинг'); }">Блог компании Перспективный мониторинг</a>
+<a href="https://habr.com/ru/hub/infosecurity/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Информационная безопасность'); }">Информационная безопасность</a>
+<a href="https://habr.com/ru/hub/crazydev/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Ненормальное программирование'); }">Ненормальное программирование</a>
+<a href="https://habr.com/ru/company/pm/blog/462479/">1</a>, <a href="https://habr.com/ru/company/pm/blog/464367/">2</a> и <a href="https://habr.com/ru/company/pm/blog/469507/">3</a>). В данной статье я расскажу об уязвимостях похожего продукта — Origin, который тоже является лаунчером для игр. Обнаруженные уязвимости получили номера CVE-2019-19247 и CVE-2019-19248.<br>
+<a href="https://www.ea.com/security/news/origin-security-update-in-collaboration-with-external-security-researchers">Запись в security-блоге</a> и <a href="https://www.ea.com/security/news/easec-2019-001-elevation-of-privilege-vulnerability-in-origin-client">advisory</a>.<br>
+<a href="https://habr.com/ru/company/pm/blog/479704/#comments" class="post-stats__comments-link" rel="nofollow">
+<a href="https://habr.com/ru/users/ru_vds/" class="post__user-info user-info" title="Автор публикации">
+<a href="https://habr.com/ru/company/ruvds/blog/479270/" class="post__title_link">Что нового можно ожидать от Node.js в 2020 году?</a>
+<a href="https://habr.com/ru/company/ruvds/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Блог компании RUVDS.com'); }">Блог компании RUVDS.com</a>
+<a href="https://habr.com/ru/hub/webdev/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Разработка веб-сайтов'); }">Разработка веб-сайтов</a>
+<a href="https://habr.com/ru/hub/javascript/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'JavaScript'); }">JavaScript</a>
+<a href="https://habr.com/ru/hub/nodejs/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Node.JS'); }">Node.JS</a>
+<a href="https://habr.com/ru/company/ruvds/blog/479270/"><img src="https://habrastorage.org/webt/n0/ch/jh/n0chjhkvi_urbfxnwbkkuv3x9fg.jpeg"></a><br>
+<a href="https://habr.com/ru/company/ruvds/blog/479270/#comments" class="post-stats__comments-link" rel="nofollow">
+<a href="https://habr.com/ru/users/Syurmakov/" class="post__user-info user-info" title="Автор публикации">
+<a href="https://habr.com/ru/company/mailru/blog/478294/" class="post__title_link">Дайджест новостей машинного обучения и искусственного интеллекта за ноябрь</a>
+<a href="https://habr.com/ru/company/mailru/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Блог компании Mail.ru Group'); }">Блог компании Mail.ru Group</a>
+<a href="https://habr.com/ru/hub/data_mining/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Data Mining'); }">Data Mining</a>
+<a href="https://habr.com/ru/hub/bigdata/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Big Data'); }">Big Data</a>
+<a href="https://habr.com/ru/hub/machine_learning/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Машинное обучение'); }">Машинное обучение</a>
+<a href="https://habr.com/ru/hub/artificial_intelligence/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Искусственный интеллект'); }">Искусственный интеллект</a>
+<a href="https://tlg.name/neurondata/119">здесь</a>.<br>
+<a href="https://techcrunch.com/2019/11/07/mit-develops-a-robot-that-can-grow-like-a-plant-when-it-needs-some-extra-reach/">разработал</a> новый тип робота, который может расти как растение когда ему требуется дополнительная досягаемость.<br>
+<a href="https://habr.com/ru/company/mailru/blog/478294/#comments" class="post-stats__comments-link" rel="nofollow">
+<a href="https://u.tmtm.ru/tmtalkadblock" class="btn btn_large btn_blue" style="display:inline-flex!important;" target="_blank">Подробнее</a></span>
+<a href="https://tmtm.ru/services/advertising/" target="_blank" class="dfp-slot__label">Реклама</a>
+<a href="https://habr.com/ru/users/Axelus/" class="post__user-info user-info" title="Автор публикации">
+<a href="https://habr.com/ru/company/regionsoft/blog/479746/" class="post__title_link">Корпоративное ПО делает ваших сотрудников круче. А оно вам надо?</a>
+<a href="https://habr.com/ru/company/regionsoft/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Блог компании RegionSoft Developer Studio'); }">Блог компании RegionSoft Developer Studio</a>
+<a href="https://habr.com/ru/hub/it-infrastructure/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'IT-инфраструктура'); }">IT-инфраструктура</a>
+<a href="https://habr.com/ru/hub/crm/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'CRM-системы'); }">CRM-системы</a>
+<a href="https://habr.com/ru/hub/pm/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Управление проектами'); }">Управление проектами</a>
+<a href="https://habr.com/ru/hub/hr_management/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Управление персоналом'); }">Управление персоналом</a>
+<a href="https://habr.com/ru/company/regionsoft/blog/479746/"><img src="https://habrastorage.org/getpro/habr/post_images/477/4f2/572/4774f2572c3ac5cd946178f24d05e029.png"></a><br></div>
+<a href="https://habr.com/ru/company/regionsoft/blog/479746/#comments" class="post-stats__comments-link" rel="nofollow">
+<a href="https://habr.com/ru/users/nvpushkarskiy2/" class="post__user-info user-info" title="Автор публикации">
+<a href="https://habr.com/ru/company/Voximplant/blog/479700/" class="post__title_link">CIMON-2: (не)судный день, или как IBM Watson забрался выше облаков</a>
+<a href="https://habr.com/ru/company/Voximplant/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Блог компании Voximplant'); }">Блог компании Voximplant</a>
+<a href="https://habr.com/ru/hub/machine_learning/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Машинное обучение'); }">Машинное обучение</a>
+<a href="https://habr.com/ru/hub/artificial_intelligence/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Искусственный интеллект'); }">Искусственный интеллект</a>
+<a href="https://habr.com/ru/hub/voice_interfaces/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Голосовые интерфейсы'); }">Голосовые интерфейсы</a>
+<a href="https://ru.wikipedia.org/wiki/Airbus">Airbus</a> и <a href="https://ru.wikipedia.org/wiki/IBM">IBM</a>, спонсированная германским центром авиации и космонавтики DLR. В прошлом году его впервые испытали «в бою» на МКС, а в этом месяце начали испытание второй версии помощника. Так как нам интересно все, что связано с высокотехнологичными и прорывными коммуникациями – например, мы уже писал про работу с <a href="https://habr.com/ru/company/Voximplant/blog/452282/">IBM Watson</a> – то мы не смогли пройти мимо этой новости и подготовили перевод-компиляцию из нескольких зарубежных материалов, чтобы понять самим и сообщить вам – зачем астронавтам условная Алиса/Алекса/{you name it}? Под катом вас ждет хронология событий, цитаты сопричастных и небольшой вывод. Приятного чтения!<br></div>
+<a href="https://habr.com/ru/company/Voximplant/blog/479700/#comments" class="post-stats__comments-link" rel="nofollow">
+<a href="https://habr.com/ru/users/Aminopyrodin/" class="post__user-info user-info" title="Автор публикации">
+<a href="https://habr.com/ru/company/skbkontur/blog/479800/" class="post__title_link">Пишу на C#, чтобы фронтендерам было полегче</a>
+<a href="https://habr.com/ru/company/skbkontur/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Блог компании Контур'); }">Блог компании Контур</a>
+<a href="https://habr.com/ru/hub/javascript/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'JavaScript'); }">JavaScript</a>
+<a href="https://habr.com/ru/hub/programming/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Программирование'); }">Программирование</a>
+<a href="https://habr.com/ru/hub/csharp/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'C#'); }">C#</a>
+<a href="https://habr.com/ru/sandbox/" class="post__type-label" title="Перейти в песочницу">Из песочницы</a></li></ul>
+<a href="https://adventofcode.com/2019">Advent of Code</a> — ежегодном рождественском соревновании от автора популярного фреймворка <a href="http://vanilla-js.com/">Vanilla JS</a>. В этом году я пишу на C#, потому что привычный мне, как фронтендеру, JavaScript я уже весь использовала в прошлом году. Прошло всего 10 дней, но я уже чувствую, как жизнь фронтендеров по всему миру становится лучше. Сейчас расскажу, как это происходит.</p></div>
+<a href="https://habr.com/ru/company/skbkontur/blog/479800/#comments" class="post-stats__comments-link" rel="nofollow">
+<a href="https://moikrug.ru/vacancies" target="_blank" data-utm="?utm_source=tm_habrahabr&utm_medium=tm_block&utm_content=block_name&utm_campaign=vacancies_postlist" class="promo-block__title-link" rel="nofollow">Вакансии</a>
+<a href="https://moikrug.ru/" target="_blank" data-utm="?utm_source=tm_habrahabr&utm_medium=tm_block&utm_content=block_logo&utm_campaign=vacancies_postlist" class="promo-block__header-logo icon-svg_logo-mk" rel="nofollow"><svg class="icon-svg" width="114" height="24" viewBox="0 0 114 24" aria-hidden="true" aria-labelledby="title" version="1.1" role="img"><path d="M9.383 7.685l-4.127-6.87h-5.258v17.614h4.931v-10.166l3.497 5.963h1.938l3.497-5.963v10.166h4.931v-17.614h-5.258zM27.726 5.47c-3.673 0-6.667 2.994-6.667 6.667s2.994 6.667 6.667 6.667c3.673 0 6.667-2.994 6.667-6.667.001-3.673-2.993-6.667-6.667-6.667zm0 8.908c-1.208 0-2.239-.982-2.239-2.239 0-1.208 1.032-2.239 2.239-2.239s2.239 1.032 2.239 2.239c.001 1.257-1.031 2.239-2.239 2.239zM40.835 11.735v-5.888h-4.68v12.582h4.68l4.152-5.888v5.888h4.68v-12.582h-4.68zM47.906 3.055l-1.359-2.617c-1.309.704-2.617.982-3.623.982s-2.341-.278-3.649-.982l-1.359 2.617c1.811.982 3.397 1.283 5.007 1.283s3.171-.303 4.983-1.283zM57.971 5.847v12.582h4.68v-12.582zM71.432 5.847h-4.931l-3.849 6.19 4.101 6.392h4.933l-4.353-6.392zM81.12 5.47c-1.283 0-2.667.806-3.246 2.013v-1.635h-4.68v17.713h4.68v-6.768c.578 1.208 1.962 2.013 3.246 2.013 3.673 0 5.662-2.994 5.662-6.667s-1.989-6.667-5.662-6.667zm-1.51 8.908c-.68 0-1.309-.327-1.736-.856v-2.792c.427-.503 1.057-.83 1.736-.83 1.208 0 2.239.982 2.239 2.239.001 1.207-1.031 2.239-2.239 2.239zM94.909 12.692l-2.666-6.845h-5.083l5.335 12.557-2.165 5.158h4.655l7.926-17.714h-5.082zM104.042 5.847v12.582h4.68v-8.304h5.561v-4.278z"/></svg></a>
+<a href="https://moikrug.ru/vacancies/1000055707" class="promo-item" data-utm="?utm_source=tm_habrahabr&utm_medium=tm_block&utm_content=vacancy&utm_campaign=vacancies_postlist" >
+<a href="https://moikrug.ru/vacancies/1000054551" class="promo-item" data-utm="?utm_source=tm_habrahabr&utm_medium=tm_block&utm_content=vacancy&utm_campaign=vacancies_postlist" >
+<a href="https://moikrug.ru/vacancies/1000048981" class="promo-item" data-utm="?utm_source=tm_habrahabr&utm_medium=tm_block&utm_content=vacancy&utm_campaign=vacancies_postlist" >
+<a href="https://moikrug.ru/vacancies/1000055705" class="promo-item" data-utm="?utm_source=tm_habrahabr&utm_medium=tm_block&utm_content=vacancy&utm_campaign=vacancies_postlist" >
+<a href="https://moikrug.ru/vacancies/1000049821" class="promo-item" data-utm="?utm_source=tm_habrahabr&utm_medium=tm_block&utm_content=vacancy&utm_campaign=vacancies_postlist" >
+<a href="https://moikrug.ru/vacancies/" data-utm="?utm_source=tm_habrahabr&utm_medium=tm_block&utm_content=vacancies_all&utm_campaign=vacancies_postlist" class="promo-block__footer-link promo-block__footer-link_selected" target="_blank" rel="nofollow">Все вакансии</a>
+<a href="https://habr.com/ru/users/m-rv/" class="post__user-info user-info" title="Автор публикации">
+<a href="https://habr.com/ru/post/479310/" class="post__title_link">Как Программисту 1С стать Java developer'ом</a>
+<a href="https://habr.com/ru/hub/career/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Карьера в IT-индустрии'); }">Карьера в IT-индустрии</a>
+<a href="https://habr.com/ru/post/479310/#comments" class="post-stats__comments-link" rel="nofollow">
+<a href="https://habr.com/ru/users/ABBYYTeam/" class="post__user-info user-info" title="Автор публикации">
+<a href="https://habr.com/ru/company/abbyy/blog/479400/" class="post__title_link">Как сделать из нейросети журналиста, или «Секреты сокращения текста на Хабре без лишних слов»</a>
+<a href="https://habr.com/ru/company/abbyy/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Блог компании ABBYY'); }">Блог компании ABBYY</a>
+<a href="https://habr.com/ru/hub/machine_learning/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Машинное обучение'); }">Машинное обучение</a>
+<a href="https://habr.com/ru/hub/artificial_intelligence/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Искусственный интеллект'); }">Искусственный интеллект</a>
+<a href="https://habr.com/ru/hub/DIY/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'DIY или Сделай сам'); }">DIY или Сделай сам</a>
+<a href="https://habr.com/ru/company/abbyy/blog/437008/">задач Natural Language Processing (NLP)</a>. Она заключается в создании алгоритма, который принимает на вход текст и на выходе выдаёт его сокращённую версию. Причем в ней сохраняется корректная структура (соответствующая нормам языка) и правильно передается основная мысль текста. <br>
+<a href="http://www.dialog-21.ru/">Диалог</a>» и ставил эксперименты над генераторами заголовков для новостных заметок и для стихов с помощью нейронных сетей. В этом посте я вначале вкратце пробегусь по теоретической части саммаризации, а затем приведу примеры с генерацией заголовков, расскажу, какие трудности возникают у моделей при сокращении текста и как можно эти модели улучшить, чтобы добиться выдачи более качественных заголовков. <br></div>
+<a href="https://habr.com/ru/company/abbyy/blog/479400/#comments" class="post-stats__comments-link" rel="nofollow">
+<a href="https://habr.com/ru/users/Dmytro_Kikot/" class="post__user-info user-info" title="Автор публикации">
+<a href="https://habr.com/ru/company/ua-hosting/blog/479502/" class="post__title_link">Как пережить самый суровый ледниковый период в истории Земли?</a>
+<a href="https://habr.com/ru/company/ua-hosting/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Блог компании ua-hosting.company'); }">Блог компании ua-hosting.company</a>
+<a href="https://habr.com/ru/hub/popular_science/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Научно-популярное'); }">Научно-популярное</a>
+<a href="https://habr.com/ru/hub/Chemistry/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Химия'); }">Химия</a>
+<a href="https://habr.com/ru/hub/Ecology/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Экология'); }">Экология</a>
+<a href="https://habr.com/ru/company/ua-hosting/blog/479502/#comments" class="post-stats__comments-link" rel="nofollow">
+<a href="https://habr.com/ru/users/m1rko/" class="post__user-info user-info" title="Автор публикации">
+<a href="https://habr.com/ru/post/479806/" class="post__title_link">Анализ конфиденциальности данных в мобильном приложении и на сайте TikTok</a>
+<a href="https://habr.com/ru/hub/infosecurity/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Информационная безопасность'); }">Информационная безопасность</a>
+<a href="https://habr.com/ru/hub/business-laws/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Законодательство в IT'); }">Законодательство в IT</a>
+<a href="https://habr.com/ru/hub/soft/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Софт'); }">Софт</a>
+<a href="https://habr.com/ru/hub/social_networks/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Социальные сети и сообщества'); }">Социальные сети и сообщества</a>
+<a href="https://www.sueddeutsche.de/digital/tiktok-ueberwachung-daten-kritik-1.4709779">статью в Süddeutsche Zeitung</a> (на немецком).</b><br>
+<a href="https://habr.com/ru/post/479806/#comments" class="post-stats__comments-link" rel="nofollow">
+<a href="https://habr.com/ru/users/deaSint/" class="post__user-info user-info" title="Автор публикации">
+<a href="https://habr.com/ru/post/479774/" class="post__title_link">Повествование через окружение или почему кат-сцены не панацея</a>
+<a href="https://habr.com/ru/hub/gamedev/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Разработка игр'); }">Разработка игр</a>
+<a href="https://habr.com/ru/hub/read/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Читальный зал'); }">Читальный зал</a>
+<a href="https://habr.com/ru/hub/game_design/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Дизайн игр'); }">Дизайн игр</a>
+<a href="https://habr.com/ru/hub/games/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Игры и игровые приставки'); }">Игры и игровые приставки</a>
+<a href="https://habr.com/ru/post/479774/#comments" class="post-stats__comments-link" rel="nofollow">
+<a href="https://habr.com/ru/users/eyeofhell/" class="post__user-info user-info" title="Автор публикации">
+<a href="https://habr.com/ru/company/oleg-bunin/blog/476112/" class="post__title_link">Elixir как цель развития для python async</a>
+<a href="https://habr.com/ru/company/oleg-bunin/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Блог компании Конференции Олега Бунина (Онтико)'); }">Блог компании Конференции Олега Бунина (Онтико)</a>
+<a href="https://habr.com/ru/hub/webdev/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Разработка веб-сайтов'); }">Разработка веб-сайтов</a>
+<a href="https://habr.com/ru/hub/python/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Python'); }">Python</a>
+<a href="https://habr.com/ru/hub/programming/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Программирование'); }">Программирование</a>
+<a href="https://habr.com/ru/hub/erlang/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Erlang/OTP'); }">Erlang/OTP</a>
+<a href="http://seastar.io/">Seastar.io</a>.<br>
+<a href="https://conf.python.ru/moscow/2020">Moscow Python Conf++</a> <strong>Максима Лапшина</strong> (<a href="https://habr.com/ru/users/erlyvideo/" class="user_link">erlyvideo</a>) — автора проекта Erlyvideo.ru.<br>
+<a href="https://habr.com/ru/company/oleg-bunin/blog/476112/#comments" class="post-stats__comments-link" rel="nofollow">
+<a href="http://freelansim.ru" target="_blank" data-utm="?utm_source=tm_habrahabr&utm_medium=tm_block&utm_content=block_name&utm_campaign=tasks_postlist" class="promo-block__title-link" rel="nofollow">Заказы</a>
+<a href="http://freelansim.ru" target="_blank" data-utm="?utm_source=tm_habrahabr&utm_medium=tm_block&utm_content=block_logo&utm_campaign=tasks_postlist" class="promo-block__header-logo icon-svg_logo-freelansim" rel="nofollow"><svg class="icon-svg" width="141" height="24" viewBox="0 0 141 24" aria-hidden="true" aria-labelledby="title" version="1.1" role="img"><path d="M13.701 2.34h-.49v-1.639h-5.283v1.614h-.488c-3.84 0-7.434 2.421-7.434 7.069 0 4.402 3.4 7.067 7.434 7.067h.488v1.859h5.283v-1.834h.49c3.84 0 7.434-2.421 7.434-7.067 0-4.403-3.4-7.069-7.434-7.069zm-5.773 9.832h-.268c-1.784 0-2.788-1.199-2.788-2.763 0-1.516 1.002-2.788 2.788-2.788h.268v5.551zm5.553 0h-.27v-5.552h.27c1.786 0 2.788 1.272 2.788 2.788-.001 1.566-1.004 2.764-2.788 2.764zM30.549 5.714c-1.248 0-2.592.782-3.155 1.957v-1.59h-4.549v17.218h4.549v-6.579c.563 1.173 1.907 1.957 3.155 1.957 3.57 0 5.502-2.91 5.502-6.48 0-3.572-1.931-6.483-5.502-6.483zm-1.468 8.658c-.659 0-1.271-.318-1.687-.832v-2.715c.416-.49 1.028-.808 1.687-.808 1.173 0 2.177.953 2.177 2.177 0 1.175-1.002 2.177-2.177 2.177zM42.312 11.804v-5.723h-4.549v12.229h4.549l4.035-5.723v5.723h4.55v-12.229h-4.55zM54.661 10.753c0 3.155-.806 4.158-1.858 4.158h-.685v3.4h2.104c2.983 0 4.499-2.201 4.499-6.456v-1.859h2.764v8.314h4.549v-12.227h-11.372v4.672zM74.225 5.714c-2.348 0-4.523.661-6.188 1.957l2.152 2.568c1.125-.734 2.812-1.149 3.937-1.149 1.026 0 1.931.268 1.931 1.564v.367c-4.914 0-8.314.856-8.314 4.182 0 2.348 1.687 3.472 4.279 3.472 1.248 0 2.911-.685 4.035-1.957v1.59h4.549v-8.386c.001-3.57-3.545-4.207-6.381-4.207zm1.834 8.585c-.685.905-1.419 1.296-2.078 1.296-.929 0-1.199-.49-1.199-.954 0-1.149 1.468-1.566 3.277-1.566v1.224zM91.148 9.897h-4.036v-3.816h-4.547v12.229h4.547v-4.256h4.036v4.256h4.549v-12.229h-4.549zM104.377 10.019c1.125 0 1.54.123 2.665.709l1.907-3.301c-1.272-1.149-2.764-1.712-5.063-1.712-3.57 0-6.48 2.91-6.48 6.481 0 3.57 2.91 6.48 6.48 6.48 2.3 0 3.791-.562 5.063-1.711l-1.907-3.302c-1.125.611-1.54.709-2.665.709-1.272 0-2.421-.88-2.421-2.176s1.149-2.177 2.421-2.177zM114.965 11.804v-5.723h-4.549v12.229h4.549l4.035-5.723v5.723h4.55v-12.229h-4.55zM136.388 6.081l-3.056 4.451-3.032-4.451h-4.793v12.229h4.549v-6.505l2.469 3.669h1.615l2.493-3.719v6.555h4.55v-12.229z"/></svg></a>
+<a href="http://freelansim.ru/tasks/279712" class="promo-item" data-utm="?utm_source=tm_habrahabr&utm_medium=tm_block&utm_content=task&utm_campaign=tasks_postlist">
+<a href="http://freelansim.ru/tasks/279704" class="promo-item" data-utm="?utm_source=tm_habrahabr&utm_medium=tm_block&utm_content=task&utm_campaign=tasks_postlist">
+<a href="http://freelansim.ru/tasks/279698" class="promo-item" data-utm="?utm_source=tm_habrahabr&utm_medium=tm_block&utm_content=task&utm_campaign=tasks_postlist">
+<a href="http://freelansim.ru/tasks/279694" class="promo-item" data-utm="?utm_source=tm_habrahabr&utm_medium=tm_block&utm_content=task&utm_campaign=tasks_postlist">
+<a href="http://freelansim.ru/tasks/279688" class="promo-item" data-utm="?utm_source=tm_habrahabr&utm_medium=tm_block&utm_content=task&utm_campaign=tasks_postlist">
+<a href="http://freelansim.ru/tasks/" class="promo-block__footer-link promo-block__footer-link_selected" data-utm="?utm_source=tm_habrahabr&utm_medium=tm_block&utm_content=tasks_all&utm_campaign=tasks_postlist" target="_blank" rel="nofollow">Все заказы</a>
+<a href="http://freelansim.ru/info/pricing/" data-utm="?utm_source=tm_habrahabr&utm_medium=tm_block&utm_content=task_add&utm_campaign=tasks_postlist" class="promo-block__footer-link" target="_blank">Разместить заказ</a>
+<a href="https://habr.com/ru/users/AloneCoder/" class="post__user-info user-info" title="Автор публикации">
+<a href="https://habr.com/ru/company/mailru/blog/479692/" class="post__title_link">Индексируем миллиарды текстовых векторов</a>
+<a href="https://habr.com/ru/company/mailru/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Блог компании Mail.ru Group'); }">Блог компании Mail.ru Group</a>
+<a href="https://habr.com/ru/hub/search_technologies/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Поисковые технологии'); }">Поисковые технологии</a>
+<a href="https://habr.com/ru/hub/analysis_design/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Анализ и проектирование систем'); }">Анализ и проектирование систем</a>
+<a href="https://habr.com/ru/hub/algorithms/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Алгоритмы'); }">Алгоритмы</a>
+<a href="https://habr.com/ru/hub/natural_language_processing/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Natural Language Processing'); }">Natural Language Processing</a>
+<a href="https://habr.com/ru/company/mailru/blog/479692/#comments" class="post-stats__comments-link" rel="nofollow">
+<a href="https://habr.com/ru/users/DenisPoison/" class="post__user-info user-info" title="Автор публикации">
+<a href="https://habr.com/ru/company/ispsystem/blog/479862/" class="post__title_link">Как сэкономить 15 000 рублей при регистрации ПО</a>
+<a href="https://habr.com/ru/company/ispsystem/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Блог компании ISPsystem'); }">Блог компании ISPsystem</a>
+<a href="https://habr.com/ru/hub/business-laws/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Законодательство в IT'); }">Законодательство в IT</a>
+<a href="https://rupto.ru/ru/stateservices/gosudarstvennaya-registraciya-programmy-dlya-elektronnyh-vychislitelnyh-mashin-ili-bazy-dannyh-i-vydacha-svidetelstv-o-gosudarstvennoy-registracii-programmy-dlya-elektronnyh-vychislitelnyh-mashin-ili-bazy-dannyh-ih-dublikatov">на сайт Роспатента</a>: инструкции там есть, но четкой картины не дают. На месте руководителя маленького IT-проекта я бы не стал подавать заявление сам — вдруг что-то сделаю не так.</p><br>
+<a href="https://habr.com/ru/company/ispsystem/blog/479862/#comments" class="post-stats__comments-link" rel="nofollow">
+<a href="https://habr.com/ru/users/iosnick/" class="post__user-info user-info" title="Автор публикации">
+<a href="https://habr.com/ru/post/479432/" class="post__title_link">Яндекс.Карты: Зашел на контроллер карт — сразу получил позицию пользователя (окей, ну а теперь серьезно)</a>
+<a href="https://habr.com/ru/hub/ios_dev/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Разработка под iOS'); }">Разработка под iOS</a>
+<a href="https://habr.com/ru/hub/yandex_api/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Яндекс API'); }">Яндекс API</a>
+<a href="https://habr.com/ru/post/479102/">habr.com/ru/post/479102</a><br>
+<a href="https://habr.com/ru/post/479432/#comments" class="post-stats__comments-link" rel="nofollow">
+<a href="https://habr.com/ru/users/nAbdullin/" class="post__user-info user-info" title="Автор публикации">
+<a href="https://habr.com/ru/company/southbridge/blog/479682/" class="post__title_link">Доклад Sysdig об использовании контейнеров за 2019: новые сведения о Kubernetes и безопасности</a>
+<a href="https://habr.com/ru/company/southbridge/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Блог компании Southbridge'); }">Блог компании Southbridge</a>
+<a href="https://habr.com/ru/hub/s_admin/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'Серверное администрирование'); }">Серверное администрирование</a>
+<a href="https://habr.com/ru/hub/devops/" class="inline-list__item-link hub-link " rel="nofollow" title="Вы не подписаны на этот хаб" onclick="if (typeof ga === 'function') { ga('send', 'event', 'hub', 'feed page', 'DevOps'); }">DevOps</a>
+<a href="https://sysdig.com/resources/papers/2019-container-usage-report/">Sysdig 2019 Container Usage Report</a>). Kubernetes продолжает набирать обороты, активнее осваиваются облачные архитектуры, и все это меняет не просто паттерны использования, но и процессы и организационные структуры. Удивительно, но в этом году двукратно увеличилось число контейнеров, срок жизни которых не превышает 5 минут. Чем динамичнее становятся сервисы, тем лучше облачные команды сознают необходимость интеграции безопасности в процессы DevOps. В рамках доклада об использовании за 2019 год мы впервые исследуем детали безопасности и соответствия — в дополнение к ряду деталей о том, как клиенты используют контейнеры, Kubernetes и проч.</p></div>
+<a href="https://habr.com/ru/company/southbridge/blog/479682/#comments" class="post-stats__comments-link" rel="nofollow">
+<a href="/ru/page2/" class="toggle-menu__item-link toggle-menu__item-link_pagination" >2</a>
+<a href="/ru/page3/" class="toggle-menu__item-link toggle-menu__item-link_pagination" >3</a>
+<a href="/ru/page4/" class="toggle-menu__item-link toggle-menu__item-link_pagination" >4</a>
+<a href="https://u.tmtm.ru/tmtalkadblock" class="btn btn_large btn_blue" style="display:inline-flex!important;" target="_blank">Ну. И что?</a></span>
+<a href="https://tmtm.ru/services/advertising/" target="_blank" class="dfp-slot__label">Реклама</a>
+<a href="https://u.tmtm.ru/boodet_online_sponsor" rel="nofollow" class="partner-info">
+<a href="https://u.tmtm.ru/ontico_sponsor" rel="nofollow" class="partner-info">
+<a href="https://u.tmtm.ru/avito_sponsor" rel="nofollow" class="partner-info">
+<a href="https://habr.com/ru/info/help/sponsorship-info/" class="default-block__footer_link">Как стать спонсором?</a>
+<a href="https://habr.com/ru/flows/develop/" class="stacked-menu__item-link stacked-menu__item-link_fira" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'flows', 'Разработка'); }">
+<a href="https://habr.com/ru/flows/admin/" class="stacked-menu__item-link stacked-menu__item-link_fira" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'flows', 'Администрирование'); }">
+<a href="https://habr.com/ru/flows/design/" class="stacked-menu__item-link stacked-menu__item-link_fira" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'flows', 'Дизайн'); }">
+<a href="https://habr.com/ru/flows/management/" class="stacked-menu__item-link stacked-menu__item-link_fira" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'flows', 'Менеджмент'); }">
+<a href="https://habr.com/ru/flows/marketing/" class="stacked-menu__item-link stacked-menu__item-link_fira" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'flows', 'Маркетинг'); }">
+<a href="https://habr.com/ru/flows/geektimes/" class="stacked-menu__item-link stacked-menu__item-link_fira" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'flows', 'Гиктаймс'); }">
+<a href="https://habr.com/ru/flows/misc/" class="stacked-menu__item-link stacked-menu__item-link_fira" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'flows', 'Разное'); }">
+<a href="/companies/" class="default-block__footer-link" rel="nofollow">Все компании</a>
+<a href="https://habr.com/ru/company/moikrug/blog/479688/" class="post-info__title" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'most_read', 'sidebar', '1'); }">В каких странах и городах разработчики зарабатывают больше, если учесть налоги и стоимость жизни?</a>
+<a href="https://habr.com/ru/company/moikrug/blog/479688/#comments" class="post-info__meta-item" rel="nofollow">
+<a href="https://habr.com/ru/post/479756/" class="post-info__title" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'most_read', 'sidebar', '2'); }">Открытые данные. Роскосмос. Догоним Америку</a>
+<a href="https://habr.com/ru/post/479756/#comments" class="post-info__meta-item" rel="nofollow">
+<a href="https://habr.com/ru/post/479818/" class="post-info__title" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'most_read', 'sidebar', '3'); }">Как оценить уровень владения английским языком</a>
+<a href="https://habr.com/ru/post/479818/#comments" class="post-info__meta-item" rel="nofollow">
+<a href="https://habr.com/ru/post/479642/" class="post-info__title" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'most_read', 'sidebar', '4'); }">Как глупые решения при проектировании самолёта времён Второй мировой привели к созданию Macintosh</a>
+<a href="https://habr.com/ru/post/479642/#comments" class="post-info__meta-item" rel="nofollow">
+<a href="https://habr.com/ru/news/t/479826/" class="post-info__title" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'most_read', 'sidebar', '5'); }">Google отказала Fortnite в уникальных условиях распространения</a>
+<a href="https://habr.com/ru/news/t/479826/#comments" class="post-info__meta-item" rel="nofollow">
+<a href="https://habr.com/ru/news/t/479838/" class="post-info__title" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'most_read', 'sidebar', '6'); }">20 тысяч бэкеров портативного холодильника Coolest так и не получат устройство</a>
+<a href="https://habr.com/ru/news/t/479838/#comments" class="post-info__meta-item" rel="nofollow">
+<a href="https://u.tmtm.ru/techtext_final_read" class="post-info__title" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'most_read', 'prmlink'); }">Конкурс хабраавторов «Технотекст 2019». Итоги</a>
+<a href="#broadcast_posts_today" class="toggle-menu__item-link active" rel="nofollow">Сутки</a>
+<a href="#broadcast_posts_week" class="toggle-menu__item-link" rel="nofollow">Неделя</a>
+<a href="#broadcast_posts_month" class="toggle-menu__item-link" rel="nofollow">Месяц</a>
+<a href="https://habr.com/ru/company/moikrug/blog/479688/" class="post-info__title post-info__title_large" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'most_read', 'today'); }">В каких странах и городах разработчики зарабатывают больше, если учесть налоги и стоимость жизни?</a>
+<a href="https://habr.com/ru/company/moikrug/blog/479688/#comments" class="post-info__meta-item" rel="nofollow">
+<a href="https://habr.com/ru/post/479642/" class="post-info__title post-info__title_large" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'most_read', 'today'); }">Как глупые решения при проектировании самолёта времён Второй мировой привели к созданию Macintosh</a>
+<a href="https://habr.com/ru/post/479642/#comments" class="post-info__meta-item" rel="nofollow">
+<a href="https://habr.com/ru/news/t/479484/" class="post-info__title post-info__title_large" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'most_read', 'today'); }">«Тинькофф» поставил конкурентам «шах и мат» и упал</a>
+<a href="https://habr.com/ru/news/t/479484/#comments" class="post-info__meta-item" rel="nofollow">
+<a href="https://habr.com/ru/post/469403/" class="post-info__title post-info__title_large" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'most_read', 'today'); }">Собеседуем кандидата на должность Senior Software Developer</a>
+<a href="https://habr.com/ru/post/469403/#comments" class="post-info__meta-item" rel="nofollow">
+<a href="https://habr.com/ru/post/479646/" class="post-info__title post-info__title_large" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'most_read', 'today'); }">Вредные советы или причины продолжить изучать английский после уровня Intermediate</a>
+<a href="https://habr.com/ru/post/479646/#comments" class="post-info__meta-item" rel="nofollow">
+<a href="https://habr.com/ru/post/478844/" class="post-info__title post-info__title_large" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'most_read', 'week'); }">Страх и ненависть в IT</a>
+<a href="https://habr.com/ru/post/478844/#comments" class="post-info__meta-item" rel="nofollow">
+<a href="https://habr.com/ru/company/pochtoy/blog/479210/" class="post-info__title post-info__title_large" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'most_read', 'week'); }">Что случится с покупками в зарубежных интернет-магазинах с 1 января 2020 года</a>
+<a href="https://habr.com/ru/company/pochtoy/blog/479210/#comments" class="post-info__meta-item" rel="nofollow">
+<a href="https://habr.com/ru/post/479042/" class="post-info__title post-info__title_large" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'most_read', 'week'); }">Y-метод — действительно простой способ собрать кубик Рубика</a>
+<a href="https://habr.com/ru/post/479042/#comments" class="post-info__meta-item" rel="nofollow">
+<a href="https://habr.com/ru/post/479022/" class="post-info__title post-info__title_large" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'most_read', 'week'); }">Умные телевизоры Samsung, LG, Vizio и TCL ежесекундно снимают «отпечатки» экрана и отправляют на сервер</a>
+<a href="https://habr.com/ru/post/479022/#comments" class="post-info__meta-item" rel="nofollow">
+<a href="https://habr.com/ru/post/479066/" class="post-info__title post-info__title_large" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'most_read', 'week'); }">Промышленные дизайнеры о Tesla Cybertruck: почему он такой, что в нем хорошо, а что плохо</a>
+<a href="https://habr.com/ru/post/479066/#comments" class="post-info__meta-item" rel="nofollow">
+<a href="https://habr.com/ru/post/476034/" class="post-info__title post-info__title_large" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'most_read', 'month'); }">Самый беззащитный — это Сапсан</a>
+<a href="https://habr.com/ru/post/476034/#comments" class="post-info__meta-item" rel="nofollow">
+<a href="https://habr.com/ru/post/476916/" class="post-info__title post-info__title_large" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'most_read', 'month'); }">Я больше не хочу работать, никогда и ни над чем. Но из меня научились выжимать результаты</a>
+<a href="https://habr.com/ru/post/476916/#comments" class="post-info__meta-item" rel="nofollow">
+<a href="https://habr.com/ru/company/mailru/blog/475662/" class="post-info__title post-info__title_large" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'most_read', 'month'); }">Самые позорные ошибки в моей карьере программиста (на текущий момент)</a>
+<a href="https://habr.com/ru/company/mailru/blog/475662/#comments" class="post-info__meta-item" rel="nofollow">
+<a href="https://habr.com/ru/post/478844/" class="post-info__title post-info__title_large" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'most_read', 'month'); }">Страх и ненависть в IT</a>
+<a href="https://habr.com/ru/post/478844/#comments" class="post-info__meta-item" rel="nofollow">
+<a href="https://habr.com/ru/post/478012/" class="post-info__title post-info__title_large" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'most_read', 'month'); }">Как послать провайдера подальше, и включить DNS по HTTPS в любом браузере</a>
+<a href="https://habr.com/ru/post/478012/#comments" class="post-info__meta-item" rel="nofollow">
+<a href="https://tmtm.ru/megapost" class="default-block__header-link" rel="nofollow" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'megapost_promo', 'order'); }">Разместить</a>
+<a href="https://u.tmtm.ru/weconference_promo" target="_blank" class="teaser__image" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'megapost_promo', 'article_pic'); }" rel="nofollow">
+<a href="https://u.tmtm.ru/weconference_promo" target="_blank" class="teaser__body" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'megapost_promo', 'article_title'); }" rel="nofollow">
+<a href="https://u.tmtm.ru/lr8lx" target="_blank" class="teaser__image" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'megapost_promo', 'article_pic'); }" rel="nofollow">
+<a href="https://u.tmtm.ru/lr8lx" target="_blank" class="teaser__body" onclick="if (typeof ga === 'function') { ga('send', 'event', 'tm_block', 'megapost_promo', 'article_title'); }" rel="nofollow">
+<a href="https://habr.com/ru/auth/login/" class="footer-menu__item-link">Войти</a>
+<a href="https://habr.com/ru/auth/register/" class="footer-menu__item-link">Регистрация</a>
+<a href="https://habr.com/ru/posts/top/" class="footer-menu__item-link">Публикации</a>
+<a href="https://habr.com/ru/news/" class="footer-menu__item-link">Новости</a>
+<a href="https://habr.com/ru/hubs/" class="footer-menu__item-link">Хабы</a>
+<a href="https://habr.com/ru/companies/" class="footer-menu__item-link">Компании</a>
+<a href="https://habr.com/ru/users/" class="footer-menu__item-link">Пользователи</a>
+<a href="https://habr.com/ru/sandbox/" class="footer-menu__item-link">Песочница</a>
+<a href="https://habr.com/ru/info/help/rules/" class="footer-menu__item-link">Правила</a>
+<a href="https://habr.com/ru/info/help/" class="footer-menu__item-link">Помощь</a>
+<a href="https://habr.com/ru/info/topics/madskillz/" class="footer-menu__item-link">Документация</a>
+<a href="https://account.habr.com/info/agreement/?hl=ru_RU" class="footer-menu__item-link">Соглашение</a>
+<a href="https://account.habr.com/info/confidential/?hl=ru_RU" class="footer-menu__item-link">Конфиденциальность</a>
+<a href="https://tmtm.ru/services/advertising/" target="_blank" class="footer-menu__item-link">Реклама</a>
+<a href="https://tmtm.ru/services/corpblog/" target="_blank" class="footer-menu__item-link">Тарифы</a>
+<a href="https://tmtm.ru/services/content/" target="_blank" class="footer-menu__item-link">Контент</a>
+<a href="https://tmtm.ru/workshops/" target="_blank" class="footer-menu__item-link">Семинары</a>
+<a href="https://habr.com/ru/megaprojects/" target="_blank" class="footer-menu__item-link">Мегапроекты</a>
+<a href="https://tmtm.ru/" class="footer__link">TM</a>»</span>
+<a href="#" class="footer__link js-show_lang_settings">Настройка языка</a>
+<a href="https://habr.com/ru/about/" class="footer__link">О сайте</a>
+<a href="https://habr.com/ru/feedback/" class="footer__link">Служба поддержки</a>
+<a href="https://m.habr.com/ru?mobile=yes" class="footer__link">Мобильная версия</a>
+<a href="#" class="layout__elevator hidden" id="scroll_to_top" title="Наверх"  onclick="if (typeof ga === 'function') { ga('send', 'event', 'navigation_button', 'down'); }">
