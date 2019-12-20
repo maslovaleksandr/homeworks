@@ -1,12 +1,13 @@
 from flask import Flask, request
 from wtforms import StringField, validators, PasswordField, Form
 
+
 application = Flask(__name__)
-application.config.update(
-    DEBUG=True,
-    SECRET_KEY='This key must be secret!',
-    WTF_CSRF_ENABLED=False,
-)
+# application.config.update(
+#     DEBUG=True,
+#     SECRET_KEY='This key must be secret!',
+#     WTF_CSRF_ENABLED=False,
+# )
 
 
 class check_user(Form):

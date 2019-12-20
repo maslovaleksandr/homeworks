@@ -16,4 +16,3 @@ def some_func():
 
 
 some_func()
-
